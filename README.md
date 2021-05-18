@@ -6,9 +6,9 @@ I'm studying to be a Full-Stack Dev.
 ## Technologies
 
 Some of the tools and technologies that I work with:
- *JavaScript
- *Java
- *Python
- *HTML
- *CSS
+ * JavaScript
+ * Java
+ * Python
+ * HTML
+ * CSS
 
