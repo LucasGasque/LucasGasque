@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Lucas Gasque, I'm from Brazil 🇧🇷
-I'm studying to be a Full-Stack Dev.
+I'm studying at Kenzie Academy-Brazil to be a Full-Stack Dev.
 
 ## Technologies
 
